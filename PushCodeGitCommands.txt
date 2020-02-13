@@ -1,0 +1,29 @@
+Hi 
+ how are you
+
+
+Enjoy learning Git commands and Github repository
+using both command prompt and gitbash 
+----------------------------------------------------------
+
+$ git config --global user.name "AbdulRaheem"
+
+$ git config --global user.email "abdulraheem925@gmail.com"
+
+$ cd "C:\Users\Nayeem\Desktop\Git_Github\Yaseen\Project1"
+
+$ git init
+
+$ git add *
+
+$ git status
+
+$ git commit -m "13th Feb 2020"
+
+$ git branch
+* master
+
+$ git push origin master
+
+Check in github repository, code successfully pushed
+
